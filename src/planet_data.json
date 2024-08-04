@@ -1,0 +1,10 @@
+{
+    "Jupiter": {
+        "name": "Jupiter",
+        "resources": {
+            "coal": 75,
+            "iron": 7
+        },
+        "image": "planet_1"
+    }
+}
