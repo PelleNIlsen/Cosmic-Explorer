@@ -1,0 +1,82 @@
+{
+    "Coal": {
+        "name": "Coal",
+        "resources": {
+            "coal": 10
+        },
+        "image": "planets/coal",
+        "level": 1
+    },
+    "Iron": {
+        "name": "Iron",
+        "resources": {
+            "iron": 7
+        },
+        "image": "planets/iron",
+        "level": 2
+    },
+    "Gold": {
+        "name": "Gold",
+        "resources": {
+            "gold": 5
+        },
+        "image": "planets/gold",
+        "level": 3
+    },
+    "Emerald": {
+        "name": "Emerald",
+        "resources": {
+            "emerald": 9
+        },
+        "image": "planets/emerald",
+        "level": 4
+    },
+    "Diamond": {
+        "name": "Diamond",
+        "resources": {
+            "diamond": 2
+        },
+        "image": "planets/diamond",
+        "level": 5
+    },
+    "Void": {
+        "name": "Void",
+        "resources": {
+            "voidstone": 14
+        },
+        "image": "planets/voidstone",
+        "level": 6
+    },
+    "Nebulite": {
+        "name": "Nebulite",
+        "resources": {
+            "nebulite": 4
+        },
+        "image": "planets/nebulite",
+        "level": 7
+    },
+    "Celestium": {
+        "name": "Celestium",
+        "resources": {
+            "celestium": 17
+        },
+        "image": "planets/celestium",
+        "level": 8
+    },
+    "Eclipsium": {
+        "name": "Eclipsium",
+        "resources": {
+            "eclipsium": 5
+        },
+        "image": "planets/eclipsium",
+        "level": 9
+    },
+    "Maxinite": {
+        "name": "Maxinite",
+        "resources": {
+            "maxinite": 2
+        },
+        "image": "planets/maxinite",
+        "level": 10
+    }
+}

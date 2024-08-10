@@ -1,0 +1,92 @@
+{
+    "Coal": {
+        "name": "Coal",
+        "description": "A planet rich in coal resources. Used for fuel, and to level up.",
+        "image": "coal_planet",
+        "resources": {
+            "coal": 10
+        },
+        "level": 1
+    },
+    "Iron": {
+        "name": "Iron",
+        "description": "A planet with abundant iron deposits. Used to level up.",
+        "image": "iron_planet",
+        "resources": {
+            "iron": 7
+        },
+        "level": 2
+    },
+    "Gold": {
+        "name": "Gold",
+        "description": "A planet glittering with gold. Used to level up.",
+        "image": "gold_planet",
+        "resources": {
+            "gold": 5
+        },
+        "level": 3
+    },
+    "Emerald": {
+        "name": "Emerald",
+        "description": "A planet covered in emerald forests. Used to level up.",
+        "image": "emerald_planet",
+        "resources": {
+            "emerald": 9
+        },
+        "level": 4
+    },
+    "Diamond": {
+        "name": "Diamond",
+        "description": "A planet with diamond mountains. Used to level up.",
+        "image": "diamond_planet",
+        "resources": {
+            "diamond": 2
+        },
+        "level": 5
+    },
+    "Void": {
+        "name": "Void",
+        "description": "A mysterious planet with voidstone. Used to level up.",
+        "image": "voidstone_planet",
+        "resources": {
+            "voidstone": 14
+        },
+        "level": 6
+    },
+    "Nebulite": {
+        "name": "Nebulite",
+        "description": "A planet shrouded in nebulite clouds. Used to level up.",
+        "image": "nebulite_planet",
+        "resources": {
+            "nebulite": 4
+        },
+        "level": 7
+    },
+    "Celestium": {
+        "name": "Celestium",
+        "description": "A planet glowing with celestium. Used to level up.",
+        "image": "celestium_planet",
+        "resources": {
+            "celestium": 17
+        },
+        "level": 8
+    },
+    "Eclipsium": {
+        "name": "Eclipsium",
+        "description": "A planet eclipsed by eclipsium. Used to level up.",
+        "image": "eclipsium_planet",
+        "resources": {
+            "eclipsium": 5
+        },
+        "level": 9
+    },
+    "Maxinite": {
+        "name": "Maxinite",
+        "description": "A planet with maxinite crystals. Used to level up.",
+        "image": "maxinite_planet",
+        "resources": {
+            "maxinite": 2
+        },
+        "level": 10
+    }
+}

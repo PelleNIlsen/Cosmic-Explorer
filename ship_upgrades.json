@@ -1,0 +1,68 @@
+{
+    "Speed": {
+        "2": {
+            "cost": { "coal": 10 },
+            "speed": 6
+        },
+        "3": {
+            "cost": { "iron": 10 },
+            "speed": 7
+        },
+        "4": {
+            "cost": { "gold": 10 },
+            "speed": 8
+        },
+        "5": {
+            "cost": { "emerald": 10 },
+            "speed": 9
+        },
+        "6": {
+            "cost": { "diamond": 10 },
+            "speed": 10
+        }
+    },
+    "BulletSpeed": {
+        "2": {
+            "cost": { "iron": 20 },
+            "speed": 12
+        },
+        "3": {
+            "cost": { "gold": 20 },
+            "speed": 14
+        },
+        "4": {
+            "cost": { "emerald": 20 },
+            "speed": 16
+        },
+        "5": {
+            "cost": { "diamond": 20 },
+            "speed": 18
+        },
+        "6": {
+            "cost": { "voidstone": 20 },
+            "speed": 20
+        }
+    },
+    "FireRate": {
+        "2": {
+            "cost": { "iron": 15 },
+            "rate": 800
+        },
+        "3": {
+            "cost": { "gold": 15 },
+            "rate": 600
+        },
+        "4": {
+            "cost": { "emerald": 15 },
+            "rate": 400
+        },
+        "5": {
+            "cost": { "diamond": 15 },
+            "rate": 200
+        },
+        "6": {
+            "cost": { "voidstone": 15 },
+            "rate": 100
+        }
+    }
+}

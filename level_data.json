@@ -1,0 +1,62 @@
+{
+    "1": {
+        "requirement": {
+            "resources": ["coal"],
+            "amounts": [20]
+        }
+    },
+    "2": {
+        "requirement": {
+            "resources": ["coal", "iron"],
+            "amounts": [50, 20]
+        }
+    },
+    "3": {
+        "requirement": {
+            "resources": ["iron", "gold"],
+            "amounts": [50, 20]
+        }
+    },
+    "4": {
+        "requirement": {
+            "resources": ["gold", "emerald"],
+            "amounts": [50, 20]
+        }
+    },
+    "5": {
+        "requirement": {
+            "resources": ["emerald", "diamond"],
+            "amounts": [50, 20]
+        }
+    },
+    "6": {
+        "requirement": {
+            "resources": ["diamond", "voidstone"],
+            "amounts": [50, 20]
+        }
+    },
+    "7": {
+        "requirement": {
+            "resources": ["voidstone", "nebulite"],
+            "amounts": [50, 20]
+        }
+    },
+    "8": {
+        "requirement": {
+            "resources": ["nebulite", "celestium"],
+            "amounts": [50, 20]
+        }
+    },
+    "9": {
+        "requirement": {
+            "resources": ["celestium", "eclipsium"],
+            "amounts": [50, 20]
+        }
+    },
+    "10": {
+        "requirement": {
+            "resources": ["eclipsium", "maxinite"],
+            "amounts": [50, 20]
+        }
+    }
+}
